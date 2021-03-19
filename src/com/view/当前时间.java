@@ -1,4 +1,4 @@
-package com.view;
+package com.view;//提交的小测试
  
 import java.awt.Color;
 import java.awt.Font;
